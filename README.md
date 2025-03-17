@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Arpita-coder93
-- 👀 I’m interested in Qutomation Testing
+- 👀 I’m interested in Automation Testing
 - 🌱 I’m currently learning Java,Selenium, TestNG, Cucumber
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
